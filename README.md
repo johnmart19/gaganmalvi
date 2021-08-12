@@ -2,7 +2,7 @@
 <h3 align="center"> Hi there, I'm Ivan Martynov. </h3>
 An kernel stuff developer 🖥️ from Ukraine.<br>
 Ended Zaporizhya National Technical Univercity.<br>
-- 📱 Kernel dev for Redmi 7, Redmi note 8/8T and other Qualcomm devices.<br>
+- 📱 Kernel dev for Redmi 7, Redmi note 8/8T, Poco F3/Redmi K40 and other Qualcomm devices.<br>
 - 📫 How to reach me: You may follow me on <a href="https://t.me/johnmart19">Telegram</a>  or via email at <a href="mailto:johnivan19999@gmail.com">johnivan19999@gmail.com</a><br>
 - 😄 Pronouns: he/him/his<br>
 
